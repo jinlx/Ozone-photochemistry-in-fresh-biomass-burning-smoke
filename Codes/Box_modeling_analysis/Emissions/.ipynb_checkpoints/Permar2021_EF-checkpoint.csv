@@ -1,0 +1,195 @@
+Dominant isotopologue exact mass (da)b	Chemical formula	VOC contributorc	Emission factor	Standard deviation
+43.99	CO2	Carbon dioxide	1412.967	60.553
+27.995	CO	Carbon monoxide	99.311	19.709
+16.031	CH4	Methane	5.93	1.819
+26.016	C2H2	Ethynee	0.309	0.167
+27.011	HCN	Hydrogen cyanided	0.434	0.171
+28.031	C2H4	Ethenee	1.545	1.008
+30.011	CH2O	Formaldehyde	1.912	0.427
+30.047	C2H6	Ethanee	1.113	0.836
+32.026	CH4O	Methanol	1.505	0.391
+41.027	C2H3N	Acetonitrile	0.306	0.149
+42.047	C3H6	Propenee	0.745	0.621
+43.006	HNCO	Isocyanic acid	0.16	0.036
+43.042	C2H5N	Ethenamine	0.011	0.006
+44.026	C2H4O	Acetaldehyde	1.657	0.427
+44.063	C3H8	Propaned	0.46	0.183
+45.021	CH3NO	Formamide	0.037	0.014
+46.005	CH2O2	Formic acidf	1.494	0.598
+46.042	C2H6O	Ethanold	0.035	0.04
+49.992	CH3Cl	Methyl chlorided	0.017	0.009
+52.031	C4H4	1-Buten-3-yne	0.052	0.018
+53.027	C3H3N	Acrylonitrile	0.044	0.015
+54.011	C3H2O	2-Propynal	0.037	0.015
+54.047	C4H6	1,3-Butadiene, 1,2-Butadiene	0.267	0.096
+55.042	C3H5N	Propanenitrile	0.037	0.018
+56.026	C3H4O	Acroleind	0.403	0.177
+56.063	C4H8	Butenes	0.26	0.117
+56.063	C4H8	Isobutene, 1-Butened	0.283	0.17
+57.021	C2H3NO	Methyl isocyanate, Hydroxyacetonitrile	0.033	0.009
+57.058	C3H7N	Propeneamines	0.018	0.008
+58.005	C2H2O2	Glyoxal	0.005	0.004
+58.042	C3H6O	Acetone, Propanal	0.84	0.219
+58.042	C3H6O	Acetoned	0.651	0.38
+58.042	C3H6O	Propanald	0.178	0.07
+58.078	C4H10	n-Butaned	0.125	0.061
+58.078	C4H10	Isobutaned	0.038	0.019
+59.037	C2H5NO	Acetamide	0.04	0.012
+59.073	C3H9N	Trimethylamine	0.005	0.002
+60.021	C2H4O2	Acetic acid, Glycolaldehyde (=hydroxyacetaldehyde)	2.442	0.609
+60.058	C3H8O	Isopropanold	0.007	0.006
+61.016	CH3NO2	Nitromethane	0.078	0.009
+62.019	C2H6S	Dimethyl sulfidee	0.08	0.083
+65.027	C4H3N	Cyanoallene isomers	0.002	0.001
+66.047	C5H6	1,3-Cyclopentadiene	0.011	0.005
+67.042	C4H5N	Pyrrole, Butenenitrile isomers	0.039	0.021
+67.042	C4H5N	Methacrylonitriled	0.014	0.011
+67.99	C3O2	Carbon suboxide	0.008	0.005
+68.026	C4H4O	Furan	0.432	0.19
+68.063	C5H8	Isoprened	0.082	0.095
+69.058	C4H7N	Butanenitriles, Dihydropyrrole	0.02	0.01
+70.005	C3H2O2	Propiolic acid	0.011	0.007
+70.042	C4H6O	Methyl vinyl ketone, Methacrolein, 2-Butenal (=crotonaldehyde)	0.394	0.152
+70.042	C4H6O	Methyl vinyl ketoned	0.199	0.119
+70.042	C4H6O	Methacroleind	0.097	0.067
+70.042	C4H6O	2-Butenald	0.041	0.02
+70.078	C5H10	Pentenes, Methylbutenes	0.015	0.008
+70.078	C5H10	Cyclopentanee	0.004	0.003
+71.073	C4H9N	Buteneamines, Tetrahydropyrrole	0.004	0.003
+72.021	C3H4O2	Pyruvaldehyde (=methyl glyoxal), Acrylic acid	0.217	0.082
+72.058	C4H8O	Methyl ethyl ketone, 2-Methylpropanal, Butanal	0.211	0.063
+72.058	C4H8O	Methyl ethyl ketoned	0.196	0.075
+72.058	C4H8O	Butanald	0.053	0.023
+72.094	C5H12	n-Pentaned	0.057	0.028
+72.094	C5H12	Isopentaned	0.019	0.012
+73.016	C2H3NO2	Nitroethene	0.01	0.004
+74.037	C3H6O2	Hydroxyacetone, Methyl acetate, Ethyl formate	0.565	0.205
+75.032	C2H5NO2	Nitroethane, Ethyl nitrite	0.012	0.004
+75.944	CS2	Carbon disulfided	0	0
+78.047	C6H6	Benzene	0.497	0.138
+79.042	C5H5N	Pentadienenitriles, Pyridine	0.037	0.01
+80.026	C5H4O	2,4-Cyclopentadiene-1-one	0.027	0.017
+81.058	C5H7N	Pentenenitriles, Methylpyrroles	0.02	0.011
+82.042	C5H6O	2-Methylfuran, 3-Methylfuran	0.278	0.133
+82.042	C5H6O	2-Methylfurand	0.047	0.03
+82.042	C5H6O	3-Methylfurand	0.01	0.007
+82.078	C6H10	2,2-Dimethylbutanee	0.015	0.011
+83.073	C5H9N	Pentanenitriles	0.021	0.011
+83.953	CH2Cl2	Dichloromethaned	0.003	0.002
+84.021	C4H4O2	2(3H)-Furanone	0.324	0.111
+84.058	C5H8O	3-Methyl-3-buten-2-one, Cyclopentanone	0.087	0.038
+84.094	C6H12	Cyclohexanee	0.008	0.014
+86.037	C4H6O2	2,3-Butanedione, Methyl acrylate	0.528	0.21
+86.073	C5H10O	3-Methyl-2-butanone,  2-Pentanone, 3-Pentanone, 2-Methylbutanal, 3-Methylbutanal	0.062	0.023
+86.073	C5H10O	2-Methyl-3-buten-2-old	0.006	0.004
+86.11	C6H14	n-Hexanee	0.04	0.036
+86.11	C6H14	3-Methylpentanee	0.01	0.006
+88.016	C3H4O3	Pyruvic acid	0.019	0.008
+88.052	C4H8O2	Methyl propanoate	0.081	0.036
+89.048	C3H7NO2	Nitropropanes	0.002	0.001
+90.047	C7H16	2,4-Dimethylpentanee	0.002	0.003
+91.042	C6H5N	Ethylnylpyrrole	0.009	0.003
+92.063	C7H8	Toluene	0.416	0.158
+93.021	C5H3NO	3-Furancarbonitrile, 2-Furancarbonitrile	0.009	0.004
+93.058	C6H7N	2-Methylpyridine, 3-Methylpyridine	0.035	0.012
+93.942	CH3Br	Methyl bromided	0.001	0.001
+94.042	C6H6O	Phenol	0.332	0.128
+96.021	C5H4O2	2-Furfural (=furaldehyde), 3-Furfural	0.533	0.209
+96.058	C6H8O	C2-Substituted furan isomers, 2,5-Dimethylfuran, 2-Ethylfuran	0.201	0.096
+97.089	C6H11N	4-Methylpentanenitrile	0.009	0.005
+97.969	C2H4Cl2	1,2-Dichloroethaned	0.001	0.001
+98	C4H2O3	Maleic anhydride	0.145	0.072
+98.037	C5H6O2	2-Furanmethanol	0.09	0.043
+98.073	C6H10O	C6H10O Ketones, Methylcyclopentanone, Cyclohexanone	0.034	0.015
+98.11	C7H14	Methylcyclohexanee	0.018	0.022
+100.016	C4H4O3	Dihydrofurandione	0.055	0.019
+100.052	C5H8O2	Methyl methacrylate	0.114	0.045
+100.089	C6H12O	Hexanones, Hexanal	0.013	0.006
+100.125	C7H16	n-Heptanee	0.046	0.05
+100.125	C7H16	2-Methylhexanee	0.021	0.042
+100.125	C7H16	3-Methylhexanee	0.016	0.018
+100.125	C7H16	2,3-Dimethylpentanee	0.004	0.007
+102.032	C4H6O3	Acetic anhydride	0.044	0.02
+103.042	C7H5N	Benzonitrile	0.055	0.022
+104.063	C8H8	Styrened	0.018	0.012
+105.043	C3H7NO3	Isopropyl nitrated	0.001	0.001
+105.043	C3H7NO3	n-Propyl nitrate	0.001	0
+105.058	C7H7N	Vinylpyridine	0.009	0.004
+106.042	C7H6O	Benzaldehyde	0.084	0.026
+106.078	C8H10	C8 Aromatics	0.206	0.08
+106.078	C8H10	(m,p)-Xylenesd	0.065	0.033
+106.078	C8H10	Ethylbenzened	0.05	0.022
+106.078	C8H10	o-Xylened	0.025	0.012
+108.021	C6H4O2	Quinone (=p-benzoquinone)	0.077	0.02
+108.058	C7H8O	2-Methylphenol (=o-cresol), Anisol	0.228	0.111
+110.037	C6H6O2	5-Methylfurfural, Benzene diols (=catechol, resorcinol)	0.25	0.119
+110.073	C7H10O	C3 Furans	0.046	0.024
+111.032	C5H5NO2	Dihydroxy pyridine, Methyl maleimide	0.024	0.008
+112.008	C6H5Cl	Chlorobenzened	0	0
+112.016	C5H4O3	5-Hydroxy-2-furfural/2-furoic acid	0.124	0.031
+112.052	C6H8O2	2-Hydroxy-3-methyl-2-cyclopenten-1-one	0.119	0.061
+112.089	C7H12O	Ethylcyclopentanone	0.014	0.007
+113.011	C4H3NO3	Nitrofuran	0.005	0.002
+114.032	C5H6O3	5-Hydroxymethyl-2[3H]-furanone	0.026	0.011
+114.068	C6H10O2	C6 1-DBE esters, C6 Diones	0.039	0.017
+114.104	C7H14O	Heptanal,  2,4-Dimethyl-3-pentanone, Heptanone	0.007	0.003
+114.141	C8H18	2,2,4-Trimethylpentanee	0.028	0.018
+114.141	C8H18	n-Octanee	0.021	0.017
+114.141	C8H18	2-Methylheptanee	0.015	0.048
+114.141	C8H18	2,3,4-Trimethylpentanee	0.007	0.01
+114.141	C8H18	3-Methylheptanee	0.007	0.01
+116.047	C5H8O3	5-Hydroxymethyl tetrahydro 2-furanone, 5-Hydroxy tetrahydro 2-furfural	0.034	0.019
+116.084	C6H12O2	C6 Esters	0.011	0.006
+117.058	C8H7N	Benzeneacetonitrile	0.01	0.003
+117.914	CHCl3	Chloroformd	0	0
+118.042	C8H6O	Benzofuran	0.041	0.015
+118.078	C9H10	Methylstyrenes, Indane, Propenylbenzenes	0.037	0.019
+119.058	C4H9NO3	Isobutyl nitrate, 2-Butyl nitrated	0.002	0.001
+120.058	C8H8O	Tolualdehydes	0.082	0.03
+120.094	C9H12	C9 Aromatics	0.069	0.031
+120.094	C9H12	1,2,3-Trimethylbenzenee	0.089	0.113
+120.094	C9H12	1,2,4-Trimethylbenzenee	0.076	0.099
+120.094	C9H12	4-Ethyltoluenee	0.045	0.071
+120.094	C9H12	3-Ethyltoluenee	0.034	0.046
+120.094	C9H12	2-Ethyltoluenee	0.025	0.051
+120.094	C9H12	Isopropylbenzenee	0.013	0.025
+120.094	C9H12	n-Propylbenzenee	0.006	0.004
+120.094	C9H12	1,3,5-Trimethylbenzenee	0.004	0.003
+122.037	C7H6O2	2-Hydroxybenzaldehyde (=salicylaldehyde)	0.065	0.023
+122.073	C8H10O	C2 Phenols, Methyl anisol	0.103	0.057
+124.016	C6H4O3	Hydroxybenzoquinone	0.045	0.026
+124.052	C7H8O2	Guaiacol (=2-methoxyphenol)	0.272	0.168
+126.032	C6H6O3	5-(Hydroxymethyl)-2-furfural	0.064	0.026
+128.157	C9H20	n-Nonanee	0.015	0.012
+131.93	C2H3Cl3	1,1,1-Trichloroethaned	0	0
+132.058	C9H8O	Methylbenzofurans	0.046	0.021
+132.094	C10H12	Ethyl styrenes, Methylpropenylbenzenes, Butenylbenzenes	0.04	0.026
+134.073	C9H10O	3-Methylacetophenone	0.045	0.019
+134.11	C10H14	C10 Aromatics	0.04	0.021
+136.052	C8H8O2	Methylbenzoic acid	0.066	0.029
+136.125	C10H16	Monoterpenes	0.206	0.15
+136.125	C10H16	Camphened	0.016	0.011
+136.125	C10H16	?-Pinened	0.014	0.012
+136.125	C10H16	?-Pinene, Myrcened	0.011	0.008
+136.125	C10H16	Tricyclened	0.002	0.002
+137.048	C7H7NO2	Nitrotoluene	0.007	0.003
+138.068	C8H10O2	2-Methoxy-4-methylphenol (=creosol)	0.142	0.107
+141.928	CH3I	Methyl iodided	0.001	0.001
+142.078	C11H10	Methylnaphthalene	0.05	0.024
+144.042	C6H8O4	Product of levoglucosan dehydration (pyrolysis)	0.042	0.03
+146.073	C10H10O	Dimethylbenzofuran	0.051	0.028
+148.089	C10H12O	Methyl chavicol (=estragole)	0.025	0.015
+148.125	C11H16	C11 Aromatics	0.014	0.007
+150.068	C9H10O2	Vinyl guaiacol	0.036	0.025
+152.047	C8H8O3	Vanillin	0.022	0.023
+152.12	C10H16O	Oxygenated monoterpenes, Camphor	0.025	0.014
+154.063	C8H10O3	Syringol	0.017	0.007
+154.136	C10H18O	Cineole, Other oxygenated monoterpenes	0.003	0.002
+156.094	C12H12	1,3-Dimethylnaphthalene	0.03	0.018
+156.151	C10H20O	Decanal	0.004	0.002
+162.141	C12H18	C12 Aromatics	0.006	0.004
+164.084	C10H12O2	Eugenol, Isoeugenol	0.02	0.014
+176.157	C13H20	C13 Aromatics	0.009	0.005
+204.188	C15H24	Sesquiterpenes	0.029	0.028
+"	-"	BC	Black carbong	0.389	0.17
+"	-"	OC	Organic carbonh	11.562	3.317

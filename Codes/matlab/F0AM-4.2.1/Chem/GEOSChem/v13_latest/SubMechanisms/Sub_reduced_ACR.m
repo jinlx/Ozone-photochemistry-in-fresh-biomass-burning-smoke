@@ -1,0 +1,13 @@
+% ---- Begin F0AM Add Compounds code ----
+%% Compound list
+SpeciesToAdd = {...
+'Furans';'Furfurals';'DBDIAL';'HFURO2';'LBZFUONE';'DBDIALCO3';'DBDIALO2';
+'HFURCO2H';'LBZFUO2';'DBDIALPAN';'HYDDIALOOH';
+'HYDFURFURO2'; 'TRIBDIAL';'MALANHY';
+'MALANHYO2';'C3H4';'PO3FUR';'PNO3FUR'};
+
+RO2ToAdd = {...
+'HFURO2';'DBDIALCO3';'DBDIALO2';'DBDIALCO3';'LBZFUO2';'MALANHYO2';};
+AddSpecies
+
+
