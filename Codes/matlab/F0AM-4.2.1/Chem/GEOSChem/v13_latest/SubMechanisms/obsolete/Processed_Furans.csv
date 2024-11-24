@@ -1,0 +1,112 @@
+Num.	First generation oxidation (Furans rxns)												
+	Furans + OH Rxns	Koh	Yield (DBDIAL)	Yield (HFURO2)	Yield (HO2)	Emi profile	% Emission (FIRE lab)	DBDIAL	DBDIAL profile	HFURO2	Profile	Note	
+	Furan	4.20E-11	0.7	0.3	0.7	0.62	0.31	MALDIAL	0.795057243	HYDFURANO2	0.411065666		
+	M2furan	6.19E-11	0.31	0.69	0.31	0.24	0.12	C5DICARB	0.137953352	HYDMEFURANO2, C5DICARBO2	0.370432638	50/50	
+	Dimefuran	1.32E-10	0.27	0.73	0.27	0.14	0.07	C4DBDIKET	0.066989406	HYDDIMEFURANO2	0.218501696		
+1	Furans + OH	5.91E-11	0.55	0.45	0.55								
+	Second generation oxidation (DBDIAL rxns), hv and OH (main in daytime)												
+	DBDIAL + hv Rxns	J4	Yield (LBZFUONE)	Yield (DBDIALCO3)	Yield (MGLY)	Yield (MCO3)	Yield (CO)	Yield (HO2)	LBZFUONE	Profile	DBDIALCO3	Profile	
+	MALDIAL	0.14	0.4	0.6	0	0	0	0.6	BZFUONE	0.85	MALDIALCO3	0.85	
+	C5DICARB	0.2	0.4	0.6	0	0	0	0.6	TLFUONE	0.15	C5CO14O2	0.15	
+	C4DBDIKET	0.0057	0	0	1	1	1	1					
+2	DBDIAL + hv	0.14	0.37	0.56	0.07	0.07	0.07	0.63					
+	DBDIAL + OH Rxns		Yield (DBDIALO2)	Yield (DBDIALCO3)	kOH	DBDIALO2	DBDIALO2 profile	DBDIALCO3	Profile				
+	MALDIAL	5.20E-11	0.17	0.83	5.20E-11	MALDIALO2	0.49	MALDIALCO3	0.91				
+	C5DICARB	6.20E-11	0.52	0.48	6.20E-11	C5DICARBO2	0.26	C5CO14O2	0.09				
+	C4DBDIKET	4.90E-11	1	0	4.90E-11	DMKOHO2	0.24						
+3	DBDIAL + OH		2.74E-01	7.26E-01	5.32E-11								
+	DBDIAL + NO3 Rxns	KNO3AL	Yield (DBDIALCO3)	Yield (HNO3)	Yield (CO)	kNO3 (KNO3AL)	DBDIALCO3	Profile					
+	MALDIAL	4	1	1	0	4.00	MALDIALCO3	0.85					
+	C5DICARB	2.75	1	1	0	2.75	C5CO14O2	0.15					
+	C4DBDIKET (no reaction path)	0	0	0	0	0.00							
+	DBDIAL + NO3 (could be ignored)	3.56	0.93	0.93	0.00	3.56							
+	DBDIAL + O3 Rxns		Yield (GLYX)	Yield (MGLY)	Yield(CH2O)	Yield(ALD2)	Yield(MCO3)	Yield (H2O2)	Yield (OH)	Yield (HO2)	Yield (CO)	kO3 	Note
+	MALDIAL	2.00E-18	1.18	0	0.125	0	0	0.18	0.57	0.87	1.29	2.00E-18	GLYOO only goes through the simple reaction 
+	C5DICARB	2.00E-18	0.68	0.59	0.0625	0.0625	0.3475	0.18	0.57	0.4725	0.9175	2.00E-18	MGLOO only goes through the simple reaction 
+	C4DBDIKET	5.00E-18	0	1.18	0.125	0.57	0.57	0.18	0.57	0.125	0.57	5.00E-18	
+	DBDIAL + O3 (could be ignored)		1.03	0.16	0.12	0.05	0.09	0.18	0.57	0.77	1.19	2.20E-18	
+	Second generation oxidation (HFURO2 rxns), NO (main in daytime)												
+	HFURO2 + NO Rxns	KRO2NO	Yield (HFURCO2H)	Yield (NO2)	Yield (MGLY)	Yield (GLYX)	Yield (HO2)	Yield (MO2)	HFURCO2H	Profile			
+	HYDFURANO2	1.00	1.00	1.00	0.00	0.00	1.00	0.00	MALDALCO2H 	0.50			
+	HYDMEFURANO2, C5DICARBO2	1.00	0.50	1.00	0.50	0.50	1.00	0.00	C5CO14OH	0.23			
+	HYDDIMEFURANO2	1.00	1.00	1.00	0.00	0.00	0.00	1.00	C5CO14OH	0.27			
+4	HFURO2 + NO	1.00	0.81	1.00	0.19	0.19	0.78	0.22					
+	HFURO2 + HO2 Rxns (trivial at night also)	Minor contri.											
+	HFURO2 + RO2 Rxns (trivial at night also)	Minor contri.											
+	Third generation oxidation (LBZFUONE rxns), OH (main in daytime)												
+	LBZFUONE + OH Rxns	Koh	Yield (LBZFUO2)	kOH 	LBZFUO2	Profile							
+	BZFUONE	4.45E-11	1	4.45E-11	BZFUO2	0.85							
+	TLFUONE	6.90E-11	1	6.90E-11	TLFUO2	0.15							
+5	LBZFUONE + OH	4.81E-11	1	4.81E-11									
+	LBZFUONE + NO3 Rxns (trivial at night also)	Minor contri.											
+	LBZFUONE + O3 Rxns (trivial at night also)	Minor contri.											
+	Third generation oxidation (DBDIALCO3 rxns), NO2 and NO (main in daytime)												
+	DBDIALCO3 + NO2 Rxns (reversible)	KFPAN	Yield (DBDIALPAN)	DIBDIALPAN	Profile								
+	MALDIALCO3	1	1	MALDIALPAN	0.88								
+	C5CO14O2	1	1	C5COO2NO2	0.12								
+6	DBDIALCO3 + NO2	1	1										
+	DBDIALCO3 + NO Rxns	KFPAN	Yield (GLYX)	Yield (MGLY)	Yield (MALANHY)	Yield (HO2)	Yield (CO)	Yield (MO2)	Yield (NO2)				
+	MALDIALCO3	1	0.4	0	0.6	1	0.4	0	1				
+	C5CO14O2	1	0	0.17	0.83	0.17	0.17	0.83	1				
+7	DBDIALCO3 + NO	1.00	0.35	0.02	0.63	0.90	0.37	0.10	1.00				
+	DBDIALCO3 + HO2 Rxns (trivial at night also)	Minor contri.											
+	DBDIALCO3 + RO2 Rxns (trivial at night also)	Minor contri.											
+	DBDIALCO3 + NO3 Rxns (trivial at night also)	Minor contri.											
+	Third generation oxidation (DBDIALO2 rxns), NO (main in daytime), HO2 and RO2 (night)												
+	DBDIALO2 + NO Rxns	KRO2NO	Yield (NO2)	Yield (GLYX)	Yield (MGLY)	Yield (HO2)	Yield (MCO3)	Yield (CO)	kNO (KRO2NO)	Note			
+	MALDIALO2	1.00	1.00	2.00	0.00	1.00	0.00	0.00	1.00				
+	C5DICARBO2	1.00	1.00	1.00	1.00	1.00	0.00	0.00	1.00	CO2H3CHO->MGLY+2HO2=CO			
+	DMKOHO2	1.00	1.00	0.00	1.30	1.70	0.70	0.70	1.00				
+8	DBDIALO2  + NO	1.00	1.00	1.25	0.58	1.17	0.17	0.17	1.00				
+	DBDIALO2 + RO2 Rxns	kRO2	Yield (GLYX)	Yield (MGLY)	Yield (HO2)	Yield (MCO3)	Yield (CO)	Note					
+	MALDIALO2	8.80E-13	1.6	0	1.8	0	0.8	HOCOC4DIAL go to GLYX, 2HO2, and 2CO; HOHOC4DIAL go to GLYX, 4HO2, 2CO					
+	C5DICARBO2	1.40E-12	0.6	0.8	2	0.2	1.6	C5134CO2OH go to MCO3, 3HO2, and 3CO; C514CO23OH go to MGLY, 4HO2, and 2CO					
+	DMKOHO2	8.80E-13	0	1.5	3	1.3	1.3	DMKCOOH go to 2MCO3, 2CO, and 2HO2; DMK2OH go to MGLY, MCO3, 3HO2, CO;CO2H3CHO go to MGLY, 2xHO2, and CO					
+9	DBDIALO2  + RO2	1.02E-12	0.95	0.58	2.15	0.37	1.13						
+	DBDIALO2 + HO2 Rxns	KRO2HO2	Yield (HYDDIALOOH)	HYDDIALOOH	Profile								
+	MALDIALO2	0.625	1	MALDIALOOH	0.49								
+	C5DICARBO2	0.706	1	C5DICAROOH	0.26								
+	DMKOHO2	0.77	1	DMKOHOOH	0.24								
+10	DBDIALO2  + HO2	0.68	1.00										
+	DBDIALO2 + NO3 Rxns (trivial at night also)	Minor contri.											
+	Third generation oxidation (HFURCO2H rxns)												
+	HFURCO2H + OH Rxns	kOH	Yield (GLYX)	Yield (MGLY)	Yield (MALANHY)	Yield (HO2)	Yield (CO)	Yield (MO2)	kOH 				
+	MALDALCO2H 	3.70E-11	0.4	0	0.6	1	0.4	0	3.70E-11				
+	C5CO14OH	5.44E-11	0	0.17	0.83	0.17	0.17	0.83	5.44E-11				
+11	HFURCO2H + OH	4.56E-11	0.20	0.08	0.71	0.59	0.29	0.41	4.56E-11				
+	HFURCO2H + hv	Minor, not considered											
+	Fourth generation oxidation (LBZFUO2 rxns)												
+	LBZFUO2 + NO Rxns	BZFUO2	Yield (NO2)	Yield (HO2)	Yield (OH)	Yield (GLYX)	Yield (HCHO)	Yield (CO)	Yield (CH3CO3)	Note			
+	BZFUO2	1.00	1.00	1.25	0.75	0.75	0.25	0.25	0.00	CO14O3CHO, 25% go to CH2O, CO, and HO2; 75% go to GLYX and OH			
+	TLFUO2	1.00	1.00	1.00	0.00	0.00	1.00	2.00	1.00	ACCOMECHO, go to CH2O, MCO3, and 2CO			
+12	LBZFUO2 + NO	1.00	1.00	1.21	0.64	0.64	0.36	0.51	0.15				
+	LBZFUO2 + HO2 Rxns (trivial at night also)	Minor contri.											
+	LBZFUO2 + RO2 Rxns (trivial at night also)	Minor contri.											
+	LBZFUO2 + NO3 Rxns (trivial at night also)	Minor contri.											
+	Fourth generation oxidation (DIBDIALPAN rxns)												
+	DIBDIALPAN self-decomposition	KBPAN	Yield (DBDIALCO3)										
+	MALDIALPAN	1	1										
+	C5COO2NO2	1	1										
+13	DIBDIALPAN	1	1										
+	Fourth generation oxidation (HYDDIALOOH rxns)												
+	HYDDIALOOH + OH rxns	kOH	Yield (GLYX)	Yield (MGLY)	Yield (HO2)	Yield (OH)	Yield (CO)	Yiled (CH3CO3)	Note				
+	MALDIALOOH	1.22E-10	0.33	0	2.67	1	3.01	0	Assume 33% goes to react with OH, and 67% reacts with hv; decompose HOCOC4DIAL				
+	C5DICAROOH	1.21E-10	0.33	0.33	2.34	1	2.01	0.67	decompose C5DICAROOH				
+	DMKOHOOH	9.75E-11	0	0.33	2	1	1.67	1.67	decompose DMKOHOOH				
+14	HYDDIALOOH + OH	1.16E-10	0.25	0.17	2.42	1.00	2.42	0.58					
+	First generation oxidation (Furfurals rxns)												
+	Furfurals + OH Rxns	kOH	Yield (HYDFURFURO2)	Yield (TRIBDIAL)	Yield (HO2)	Emi ratio_Permar	HYDFURFURO2	Profile	Note				
+	Furfural	3.50E-11	0.5	0.5	0.5	1.519	HYDFURFURALO2	0.712	Assume half half oxidation products				
+	Methylfurfural	6.19E-11	0.5	0.5	0.5	0.615	HYDMEFURFURALO2	0.288					
+15	Furfurals + OH	4.28E-11	0.5	0.5	0.5				E96J99D97:J1D96:J101				
+	Furfurals + hv Rxns	J57	Yield (Furan)	Yield (C3H4)	Yield (CO)								
+	Furfural	1	0.15	0.85	1.85								
+	Methylfurfural	0	0	0	0								
+16	Furfurals + hv Rxns	0.71	0.11	0.61	1.32								
+	Second generation oxidation (HYDFURFURO2), NO (main in daytime)												
+	HYDFURFURO2 + NO rxns	KRO2NO	Yield (HFURCO2H)	Yield (NO2)	Yield (CO)	Yield (HO2)							
+	HYDFURFURALO2	1	1	1	1	1							
+	HYDMEFURFURALO2	1	1	1	1	1							
+17	HYDFURFURO2 + NO	1	1	1	1	1							
+	HYDFURFURO2 + HO2 rxns (trival at night also)												
+	HYDFURFURO2 + RO2 rxns (trival at night also)												

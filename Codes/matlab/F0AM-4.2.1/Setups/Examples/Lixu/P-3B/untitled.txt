@@ -1,0 +1,661 @@
+    {'NAPINAO'         }
+    {'C720NO3 + OH'    }
+    {'NOXYOLO'         }
+    {'NBPINAO'         }
+    {'NAPINBO'         }
+    {'NCRESO'          }
+    {'BPINANO3 + OH'   }
+    {'C717NO3 + hv'    }
+    {'BPINCNO3 + OH'   }
+    {'OH + BUTDBNO3'   }
+    {'APINANO3 + OH'   }
+    {'APINCNO3 + OH'   }
+    {'C108NO3 + hv'    }
+    {'INB1O'           }
+    {'NBPINBO'         }
+    {'C717NO3 + OH'    }
+    {'C98NO3 + hv'     }
+    {'C4OCCOHNO3 + OH' }
+    {'NPHENO'          }
+    {0x0 char          }
+    {'APINBNO3 + OH'   }
+    {'TM123BPNO3 + OH' }
+    {'C108NO3 + OH'    }
+    {'TM135BPNO3 + OH' }
+    {'TLBIPERNO3 + OH' }
+    {'C614NO3 + OH'    }
+    {'C614NO3 + hv'    }
+    {'BPINBNO3 + OH'   }
+    {'PXYBIPENO3 + OH' }
+    {'OH + NBUTDAOH'   }
+    {'C106NO3 + OH'    }
+    {'MVKNO3 + hv'     }
+    {'C919NO3 + OH'    }
+    {'NC4CHO + hv'     }
+    {'C6OH5NO3 + OH'   }
+    {'NSTYRENEO'       }
+    {'C915NO3 + OH'    }
+    {'PETLBIPNO3 + OH' }
+    {'METLBIPNO3 + OH' }
+    {'NBZFUO'          }
+    {'NBZQO'           }
+    {'C96NO3 + OH'     }
+    {'INDO'            }
+    {'ISOPBNO3 + hv'   }
+    {'NBCO'            }
+    {'OXYBIPENO3 + OH' }
+    {'C42NO33O'        }
+    {'NNCATECO'        }
+    {'BCCNO3 + OH'     }
+    {'C98NO3 + OH'     }
+    {'C813NO3 + hv'    }
+    {'C810NO3 + OH'    }
+    {'C918NO3 + OH'    }
+    {'BCANO3 + OH'     }
+    {'OETLBIPNO3 + OH' }
+    {'C514NO3 + OH'    }
+    {'BZBIPERNO3 + OH' }
+    {'C916NO3 + OH'    }
+    {'BCSOZNO3 + OH'   }
+    {'PINALNO3 + OH'   }
+    {'CHOPRNO3 + hv'   }
+    {'C89NO3 + OH'     }
+    {'C96NO3 + hv'     }
+    {'C57NO3 + hv'     }
+    {'PROPOLNO3 + OH'  }
+    {'C719NO3 + OH'    }
+    {'OH + OCTNO3'     }
+    {'BUT2OLNO3 + OH'  }
+    {'OXNNCATCO'       }
+    {'MNNCATECO'       }
+    {'EBZBPERNO3 + OH' }
+    {'OH + HEPTNO3'    }
+    {'NO3CH2CHO + hv'  }
+    {'BCBNO3 + OH'     }
+    {'NOPINANO3 + OH'  }
+    {'PE1ENEANO3 + OH' }
+    {'OH + HO3C86NO3'  }
+    {'NBUTOLANO3 + OH' }
+    {'C720NO3 + hv'    }
+    {'OH + HO3C76NO3'  }
+    {'BPINCNO3 + hv'   }
+    {'MACRNO3 + hv'    }
+    {'OH + HO1C5NO3'   }
+    {'NPXYOLO'         }
+    {'NOPINBNO3 + OH'  }
+    {'C4CHOBNO3 + OH'  }
+    {'C141NO3 + OH'    }
+    {'APINCNO3 + hv'   }
+    {'ISOPDNO3 + hv'   }
+    {'C137NO3 + OH'    }
+    {'NMETOLO'         }
+    {'C811NO3 + OH'    }
+    {'C1310NO3 + OH'   }
+    {'C143NO3 + OH'    }
+    {'BUTALNO3 + OH'   }
+    {'OH + PEANO3'     }
+    {'C813NO3 + OH'    }
+    {'OH + NONNO3'     }
+    {'C133NO3 + hv'    }
+    {'OH + C66NO35OH'  }
+    {'NTLFUO'          }
+    {'BCALNO3 + OH'    }
+    {'C136NO3 + OH'    }
+    {'C106NO3 + hv'    }
+    {'C151NO3 + OH'    }
+    {'IPBZBPRNO3 + OH' }
+    {'HMVKANO3 + hv'   }
+    {'C917NO3 + OH'    }
+    {'NOPINCNO3 + OH'  }
+    {'C919NO3 + hv'    }
+    {'ETHOHNO3 + OH'   }
+    {'C927NO3 + OH'    }
+    {'OH + HEXCNO3'    }
+    {'NO3CH2CO3 + NO'  }
+    {'ETOLNO3 + OH'    }
+    {'NTM123OLO'       }
+    {'C1312NO3 + OH'   }
+    {'OH + SC4H9NO3'   }
+    {'NPTLQO'          }
+    {'OH + HEXBNO3'    }
+    {'PINALNO3 + hv'   }
+    {'NPETOLO'         }
+    {'MVKNO3 + OH'     }
+    {'C1311NO3 + OH'   }
+    {'C512NO3 + OH'    }
+    {'C89NO3 + hv'     }
+    {'OH + HO3C96NO3'  }
+    {'C514NO3 + hv'    }
+    {'MACRNB + hv'     }
+    {'OH + HO2C6NO3'   }
+    {'NC2OOA'          }
+    {'OH + C41NO3'     }
+    {'METLMUCNO3 + OH' }
+    {'TM123BNO3 + OH'  }
+    {'NOA + hv'        }
+    {'C6H5CH2NO3 + OH' }
+    {'PBZBPERNO3 + OH' }
+    {'NOXYQO'          }
+    {'NOETOLO'         }
+    {'PXYBIPENO3 + hv' }
+    {'C915NO3 + hv'    }
+    {'NC3OOA'          }
+    {'OH + M3PEBNO3'   }
+    {'OH + HMVKANO3'   }
+    {'OCTNO3 + hv'     }
+    {'PXYMUCNO3 + OH'  }
+    {'C810NO3 + hv'    }
+    {'NTM135OLO'       }
+    {'SC4H9NO3 + hv'   }
+    {'NOPINANO3 + hv'  }
+    {'NMXYFUO'         }
+    {'PROLNO3 + OH'    }
+    {'C1010NO3 + OH'   }
+    {'HEPTNO3 + hv'    }
+    {'TM123BPNO3 + hv' }
+    {'C142NO3 + OH'    }
+    {'TLEMUCNO3 + OH'  }
+    {'BUTONENO3 + hv'  }
+    {'C527NO3 + hv'    }
+    {'PXYLNO3 + OH'    }
+    {'HO3C4NO3 + OH'   }
+    {'PRONO3BO'        }
+    {'BUTDANO3 + hv'   }
+    {'NOAOOA'          }
+    {'C918NO3 + hv'    }
+    {'C4CONO3O'        }
+    {'C4NO3OCO'        }
+    {'TLBIPERNO3 + hv' }
+    {'OH + HO3C6NO3'   }
+    {'C1313NO3 + OH'   }
+    {'OH + PEBNO3'     }
+    {'CO2N3CHO + hv'   }
+    {'C916NO3 + hv'    }
+    {'C131NO3 + OH'    }
+    {'TM135BPNO3 + hv' }
+    {'NC101CO + hv'    }
+    {'MPRKNO3 + OH'    }
+    {'C829NO3 + hv'    }
+    {'C4CHOBNO3 + hv'  }
+    {'NC71O'           }
+    {'PE1ENEBNO3 + OH' }
+    {'OH + HO1C6NO3'   }
+    {'NC524O'          }
+    {'C1012NO3 + OH'   }
+    {'MACRNOOA'        }
+    {'OH + HEXANO3'    }
+    {'PETLMUCNO3 + OH' }
+    {'METLMUCNO3 + hv' }
+    {'NOPINCNO3 + hv'  }
+    {'NEBNZOLO'        }
+    {'C530NO3 + hv'    }
+    {'PETLBIPNO3 + hv' }
+    {'NPXYFUO'         }
+    {'NC4OOA'          }
+    {'BUTALNO3 + hv'   }
+    {'MPRKNO3 + hv'    }
+    {'NBCALO'          }
+    {'PRONO3AO'        }
+    {'METLBIPNO3 + hv' }
+    {'PXYMUCNO3 + hv'  }
+    {'C133NO3 + OH'    }
+    {'TM135MUNO3 + OH' }
+    {'PEANO3 + hv'     }
+    {'C811NO3 + hv'    }
+    {'C126NO3 + OH'    }
+    {'OH + H2MC5NO3'   }
+    {'OXYBIPENO3 + hv' }
+    {'NOPINBNO3 + hv'  }
+    {'OH + HO2C5NO3'   }
+    {'OH + NC4H9NO3'   }
+    {'C530NO3 + OH'    }
+    {'HEXCNO3 + hv'    }
+    {'NTMB1FUO'        }
+    {'IBUALANO3 + OH'  }
+    {'IC3H7NO3 + hv'   }
+    {'TLEMUCNO3 + hv'  }
+    {'OH + HO1C4NO3'   }
+    {'C917NO3 + hv'    }
+    {'OXYLNO3 + OH'    }
+    {'HO1C5NO3 + hv'   }
+    {'C57NO3CO3 + NO'  }
+    {'OXYMUCNO3 + OH'  }
+    {'C526NO3 + hv'    }
+    {'C128NO3 + OH'    }
+    {'C718NO3 + OH'    }
+    {'OETLMUCNO3 + OH' }
+    {'BZEMUCNO3 + OH'  }
+    {'TMBNO3 + OH'     }
+    {'PRNO3CO3 + NO'   }
+    {'HEXBNO3 + hv'    }
+    {'BU1ENO3O'        }
+    {'OH + PECNO3'     }
+    {'ETHFORMNO3 + OH' }
+    {'CH3NO3 + hv'     }
+    {'OH + HO2C4NO3'   }
+    {'NONNO3 + hv'     }
+    {'ETHFORMNO3 + hv' }
+    {'OETLBIPNO3 + hv' }
+    {'C1011NO3 + OH'   }
+    {'HO3C86NO3 + hv'  }
+    {'C127NO3 + OH'    }
+    {'HO3C76NO3 + hv'  }
+    {'TM135MUNO3 + hv' }
+    {'NOXYOLOOH + hv'  }
+    {'OXYMUCNO3 + hv'  }
+    {'OH + IC3H7NO3'   }
+    {'C2H5NO3 + hv'    }
+    {'HMVKNO3 + hv'    }
+    {'M3PECNO3 + hv'   }
+    {'PETLMUCNO3 + hv' }
+    {'NCRESOOH + hv'   }
+    {'C152NO3 + OH'    }
+    {'IBUALANO3 + hv'  }
+    {'OETLMUCNO3 + hv' }
+    {'M3PEBNO3 + hv'   }
+    {'PEBNO3 + hv'     }
+    {'C527NO3 + OH'    }
+    {'EBZMUCNO3 + OH'  }
+    {'OH + M22C43NO3'  }
+    {'OH + IPEBNO3'    }
+    {'C58NO3 + hv'     }
+    {'NIPBNZOLO'       }
+    {'TM123MUNO3 + OH' }
+    {'C4M2ALOHNO3 + hv'}
+    {'NEBFUO'          }
+    {'ETOLNO3 + hv'    }
+    {'NBCKO'           }
+    {'OH + C51NO3'     }
+    {'C66NO35O'        }
+    {'C45NO3 + OH'     }
+    {'MACRNCO3 + NO'   }
+    {'NOA + OH'        }
+    {'C43NO34O'        }
+    {'M22C43NO3 + hv'  }
+    {'OH + NC3H7NO3'   }
+    {'NTMB2FUO'        }
+    {'ISOPANO3 + hv'   }
+    {'OH + C2H5NO3'    }
+    {'NBZFUONE + OH'   }
+    {'OH + M3PECNO3'   }
+    {'OH + H1MC5NO3'   }
+    {'OH + M3PEANO3'   }
+    {'C524NO3 + hv'    }
+    {'INDHCHO + hv'    }
+    {'ETHENO3O'        }
+    {'PECNO3 + hv'     }
+    {'INDHPCHO + hv'   }
+    {'ISOPCNO3 + hv'   }
+    {'C6H5C2NO3 + OH'  }
+    {'BUTONENO3 + OH'  }
+    {'C65NO36CHO + hv' }
+    {'C1013NO3 + OH'   }
+    {'NC526O'          }
+    {'NO3CH2CO3 + HO2' }
+    {'OH + M33C4NO3'   }
+    {'C829NO3 + OH'    }
+    {'TM123MUNO3 + hv' }
+    {'NC3H7NO3 + hv'   }
+    {'IPECNO3 + hv'    }
+    {'NC4H9NO3 + hv'   }
+    {'C51NO32O'        }
+    {'TC4H9NO3 + hv'   }
+    {'NO3CH2CO3 + RO2' }
+    {'INB1HPCHO + hv'  }
+    {'C51NO3 + hv'     }
+    {'C526NO3 + OH'    }
+    {'C65NO36O'        }
+    {'TM123BNO3 + hv'  }
+    {'C6H5CH2NO3 + hv' }
+    {'C1310NO3 + hv'   }
+    {'BZBIPERNO3 + hv' }
+    {'BZEMUCNO3 + hv'  }
+    {'NPBNZOLO'        }
+    {'DIEKBNO3 + OH'   }
+    {'INB1CO + hv'     }
+    {'C512NO3 + hv'    }
+    {'IPBZMUCNO3 + OH' }
+    {'EBZMUCNO3 + hv'  }
+    {'HO2C6NO3 + hv'   }
+    {'C52NO31CO + hv'  }
+    {'OH + HM22C4NO3'  }
+    {'OH + C82NO3'     }
+    {'C116NO3 + OH'    }
+    {'C58ANO3 + hv'    }
+    {'PHC3NO3 + OH'    }
+    {'PXYLNO3 + hv'    }
+    {'EBZBPERNO3 + hv' }
+    {'HO3C96NO3 + hv'  }
+    {'NC91CO3 + NO'    }
+    {'IPEBNO3 + hv'    }
+    {'C52NO31O'        }
+    {'MEKANO3 + hv'    }
+    {'C927NO3 + hv'    }
+    {'BUTAL2NO3 + hv'  }
+    {'CO3C4NO3 + hv'   }
+    {'BCKANO3 + OH'    }
+    {'DIEKBNO3 + hv'   }
+    {'HEXANO3 + hv'    }
+    {'HO1C6NO3 + hv'   }
+    {'CO2N3CO3 + NO'   }
+    {'INB1NACHO + hv'  }
+    {'PHIC3NO3 + OH'   }
+    {'MEKANO3 + OH'    }
+    {'C118NO3 + OH'    }
+    {'OH + CH3NO3'     }
+    {'C3M3CHONO3 + OH' }
+    {'C131NO3 + hv'    }
+    {'OH + HO3C5NO3'   }
+    {'NC51O'           }
+    {'NOXYFUO'         }
+    {'NPHENOOH + hv'   }
+    {'OH + C72NO3'     }
+    {'NC1313O'         }
+    {'NC91CHO + hv'    }
+    {'OH + HM33C4NO3'  }
+    {'T123NNCTO'       }
+    {'C117NO3 + OH'    }
+    {'C1014NO3 + OH'   }
+    {'OH + HO13C4NO3'  }
+    {'PXNNCATCO'       }
+    {'C143NO3 + hv'    }
+    {'OH + HO1C3NO3'   }
+    {'OH + IPECNO3'    }
+    {'NAOOA'           }
+    {'C1210NO3 + OH'   }
+    {'C141NO3 + hv'    }
+    {'C831NO3 + OH'    }
+    {'HO3C6NO3 + hv'   }
+    {'IPBZMUCNO3 + hv' }
+    {'C830NO3 + OH'    }
+    {'C66NO35CO + hv'  }
+    {'C1311NO3 + hv'   }
+    {'C137NO3 + hv'    }
+    {'PTNNCATCO'       }
+    {'MNO3COC4O'       }
+    {'C51NO32CO + hv'  }
+    {'MTNNCATCO'       }
+    {'HO1C4NO3 + hv'   }
+    {'C9DCNO3 + OH'    }
+    {'C8BCNO3 + OH'    }
+    {'OH + IPEANO3'    }
+    {'NMGLYOX + hv'    }
+    {'C142NO3 + hv'    }
+    {'C1215NO3 + OH'   }
+    {'M33C4NO3 + hv'   }
+    {'C1011NO3 + hv'   }
+    {'CONM2CHO + hv'   }
+    {'TMBNO3 + hv'     }
+    {'IPBZBPRNO3 + hv' }
+    {'OTNNCATCO'       }
+    {'HO2C5NO3 + hv'   }
+    {'INCCO + hv'      }
+    {'OH + C52NO3'     }
+    {'BUTAL2NO3 + OH'  }
+    {'BCKBNO3 + OH'    }
+    {'H2MC5NO3 + hv'   }
+    {'C57NO3CO3 + HO2' }
+    {'C1010NO3 + hv'   }
+    {'OH + C93NO3'     }
+    {'NDMMALYO'        }
+    {'CH2CHCH2NO3 + OH'}
+    {'C57NO3CO3 + RO2' }
+    {'PRNO3CO3 + HO2'  }
+    {'OH + IC4H9NO3'   }
+    {'NIPBFUO'         }
+    {'OH + M22C4NO3'   }
+    {'C718NO3 + hv'    }
+    {'C72NO3 + hv'     }
+    {'PBZMUCNO3 + OH'  }
+    {'C136NO3 + hv'    }
+    {'C1211NO3 + OH'   }
+    {'PRNO3CO3 + RO2'  }
+    {'ENNCATECO'       }
+    {'C1012NO3 + hv'   }
+    {'HO2C4NO3 + hv'   }
+    {'C928NO3 + OH'    }
+    {'HMVKNGLYOX + hv' }
+    {'C1312NO3 + hv'   }
+    {'OXYLNO3 + hv'    }
+    {'C5NO3COAO'       }
+    {'M3PEANO3 + hv'   }
+    {'H1MC5NO3 + hv'   }
+    {'C930NO3 + OH'    }
+    {'C1213NO3 + OH'   }
+    {'C82NO3 + hv'     }
+    {'MVKOHANO3 + OH'  }
+    {'PBZBPERNO3 + hv' }
+    {'PHIC3NO3 + hv'   }
+    {'OH + HO13C5NO3'  }
+    {'NPXYQO'          }
+    {'C9DCNO3 + hv'    }
+    {'IC4H9NO3 + hv'   }
+    {'NPBFUO'          }
+    {'METACETNO3 + hv' }
+    {'M22C4NO3 + hv'   }
+    {'MACRNCO3 + HO2'  }
+    {'C6H5C2NO3 + hv'  }
+    {'C65NO36CO3 + NO' }
+    {'C8BCNO3 + hv'    }
+    {'MMALNBCO3 + NO'  }
+    {'OH + TC4H9NO3'   }
+    {'OH + C61NO3'     }
+    {'OH + HM33C3NO3'  }
+    {'MACRNCO3 + RO2'  }
+    {'NBUTOLBNO3 + OH' }
+    {'C127NO3 + hv'    }
+    {'MACRNBPAN + OH'  }
+    {'OH + C68NO3'     }
+    {'HM22C4NO3 + hv'  }
+    {'PHC3NO3 + hv'    }
+    {'NEBFUONE + OH'   }
+    {'OH + C610NO3'    }
+    {'HPNC524CO + hv'  }
+    {'PBZMUCNO3 + hv'  }
+    {'HMVKNGLYOX + OH' }
+    {'HEX3ONANO3 + OH' }
+    {'IPEANO3 + hv'    }
+    {'NC71CO + hv'     }
+    {'METACETNO3 + OH' }
+    {'IPNNCATCO'       }
+    {'C61NO3 + hv'     }
+    {'OH + H2M3C4NO3'  }
+    {'OH + C63NO3'     }
+    {'NMETLQO'         }
+    {'NC91CO3 + RO2'   }
+    {'MPRBNO3CHO + hv' }
+    {'C4NO3CO3 + NO'   }
+    {'C126NO3 + hv'    }
+    {'CO2N3CO3 + RO2'  }
+    {'C128NO3 + hv'    }
+    {'NC91CO3 + HO2'   }
+    {'HO1C3NO3 + hv'   }
+    {'C45NO3 + hv'     }
+    {'C3M3CHONO3 + hv' }
+    {'CO2N3CO3 + HO2'  }
+    {'NOXYOLOH + hv'   }
+    {'NCRESOH + hv'    }
+    {'NPXYOLOOH + hv'  }
+    {'NOETLQO'         }
+    {'HM33C4NO3 + hv'  }
+    {'MPRBNO3O'        }
+    {'C93NO3 + hv'     }
+    {'OH + HM22C3NO3'  }
+    {'C610NO3 + hv'    }
+    {'PNNCATECO'       }
+    {'NPETLQO'         }
+    {'HEX3ONANO3 + hv' }
+    {'NMETOLOOH + hv'  }
+    {'HM33C3NO3 + hv'  }
+    {'M2BKANO3 + hv'   }
+    {'C47CHO + hv'     }
+    {'OH + M2BKANO3'   }
+    {'C1213NO3 + hv'   }
+    {'C117NO3 + hv'    }
+    {'NC61CO3 + NO'    }
+    {'CONM2CO3 + NO'   }
+    {'C63NO3 + hv'     }
+    {'C52NO3 + hv'     }
+    {'HO3C5NO3 + hv'   }
+    {'NC91PAN + OH'    }
+    {'MMALNBPAN + OH'  }
+    {'C1013NO3 + hv'   }
+    {'NPEBQO'          }
+    {'C116NO3 + hv'    }
+    {'NTM123LOOH + hv' }
+    {'NPETOLOOH + hv'  }
+    {'C1014NO3 + hv'   }
+    {'C118NO3 + hv'    }
+    {'C928NO3 + hv'    }
+    {'NBUTOLBNO3 + hv' }
+    {'C68NO3 + hv'     }
+    {'C1211NO3 + hv'   }
+    {'CO23C4NO3 + OH'  }
+    {'C830NO3 + hv'    }
+    {'NIPBFUONE + OH'  }
+    {'NOETOLOOH + hv'  }
+    {'HEX2ONANO3 + OH' }
+    {'NTM135LOOH + hv' }
+    {'CH2CHCH2NO3 + hv'}
+    {'MACRNCO2H + OH'  }
+    {'HO13C5NO3 + hv'  }
+    {'C930NO3 + hv'    }
+    {'NO3CH2CO3H + hv' }
+    {'OH + C56NO3'     }
+    {'NPHENOH + hv'    }
+    {'HEX3ONDNO3 + OH' }
+    {'C1210NO3 + hv'   }
+    {'OH + MIPKBNO3'   }
+    {'MMALNBCO3 + HO2' }
+    {'C831NO3 + hv'    }
+    {'C1215NO3 + hv'   }
+    {'NIPRBQO'         }
+    {'C65NO36CO3 + HO2'}
+    {'MMALNBCO3 + RO2' }
+    {'OH + MTBKNO3'    }
+    {'NPBFUONE + OH'   }
+    {'C65NO36CO3 + RO2'}
+    {'MIPKBNO3 + hv'   }
+    {'NEBNZOLOOH + hv' }
+    {'HEX2ONANO3 + hv' }
+    {'MMALNACO3H + hv' }
+    {'MTBKNO3 + hv'    }
+    {'PRNO3PAN + OH'   }
+    {'MMALNACO2H + hv' }
+    {'HM22C3NO3 + hv'  }
+    {'H2M3C4NO3 + hv'  }
+    {'NO3CH2CO2H + OH' }
+    {'NPPRBQO'         }
+    {'C4NO3CO3 + HO2'  }
+    {'HEX3ONDNO3 + hv' }
+    {'C4NO3CO3 + RO2'  }
+    {'MACRNBCO3H + OH' }
+    {'NO3CH2CO3 + NO3' }
+    {'NO3CH2PAN + OH'  }
+    {'HEX2ONBNO3 + OH' }
+    {'C65NO3PAN + OH'  }
+    {'NDNCRESO'        }
+    {'MACRNBCO2H + OH' }
+    {'NC61CO3 + RO2'   }
+    {'MPRBNO3CO3 + NO' }
+    {'NIPBZOLOOH + hv' }
+    {'NC6PAN1 + OH'    }
+    {'C57NO3CO3H + hv' }
+    {'NC61CO3 + HO2'   }
+    {'CONM2CO3 + HO2'  }
+    {'PRNO3CO3H + hv'  }
+    {'CONM2CO3 + RO2'  }
+    {'HEX2ONBNO3 + hv' }
+    {'COCCOHNO3 + hv'  }
+    {'NDNOXYOLO'       }
+    {'IBUTOLBNO3 + OH' }
+    {'CONM2CO2H + hv'  }
+    {'NPBNZOLOOH + hv' }
+    {'HNC524CO + hv'   }
+    {'MMALNBCO3H + hv' }
+    {'MMALNBCO2H + hv' }
+    {'MACRNCO3H + hv'  }
+    {'MMALNBCO2H + OH' }
+    {'C4NO3PAN + OH'   }
+    {'COCCOHNO3 + OH'  }
+    {'CONM2PAN + OH'   }
+    {'NPXYOLOH + hv'   }
+    {'C57NO3CO3 + NO3' }
+    {'NDNPHENO'        }
+    {'NMETOLOH + hv'   }
+    {'IBUTOLCNO3 + OH' }
+    {'PRNO3CO3 + NO3'  }
+    {'CONM2CO3H + hv'  }
+    {'NC91CO3H + hv'   }
+    {'NBCALOH + OH'    }
+    {'PRNO3CO2H + OH'  }
+    {'CO2N3CO3H + hv'  }
+    {'C4CONO3CO + hv'  }
+    {'NTM123OLOH + hv' }
+    {'MACRNCO3 + NO3'  }
+    {'NPETOLOH + hv'   }
+    {'NOETOLOH + hv'   }
+    {'MPRBNO3CO3 + HO2'}
+    {'NTM135OLOH + hv' }
+    {'MPRBNO3CO3 + RO2'}
+    {'C47CO3H + hv'    }
+    {'C65NO3CO2H + OH' }
+    {'OH + NEOPNO3'    }
+    {'NC91CO3 + NO3'   }
+    {'PE2ENEBNO3 + OH' }
+    {'CO2N3CO3 + NO3'  }
+    {'CONM2CO2H + OH'  }
+    {'OH + HM2C43NO3'  }
+    {'NEBNZOLOH + hv'  }
+    {'NC1313OH + OH'   }
+    {'C65NO3CO3H + hv' }
+    {'NEOPNO3 + hv'    }
+    {'IBUTOLCNO3 + hv' }
+    {'C4NO3CO2H + OH'  }
+    {'C4NO3COOOH + NO3'}
+    {'NIPBNZOLOH + hv' }
+    {'C4NO3CO3H + hv'  }
+    {'C51NO324CO + hv' }
+    {'C5NO3CO4OH + hv' }
+    {'C6NO324CO + hv'  }
+    {'NC61CO3H + hv'   }
+    {'MMALNBCO3 + NO3' }
+    {'C6NO3CO4OH + hv' }
+    {'NPBNZOLOH + hv'  }
+    {'C65NO36CO3 + NO3'}
+    {'HM2C43NO3 + hv'  }
+    {'ME2BUOLNO3 + OH' }
+    {'M2BUOL2NO3 + OH' }
+    {'C4NO3CO3 + NO3'  }
+    {'C6NO324CO + OH'  }
+    {'NDNPXYOLO'       }
+    {'CO3C4NO3OH + hv' }
+    {'NC61CO3 + NO3'   }
+    {'CONM2CO3 + NO3'  }
+    {'C51NO324CO + OH' }
+    {'NDNMETOLO'       }
+    {'NDNT123LO'       }
+    {'NDNPETOLO'       }
+    {'NDNOETOLO'       }
+    {'MPRBNO3PAN + OH' }
+    {'MPRNO3CO3H + hv' }
+    {'NDNEBNZLO'       }
+    {'M2BU2OLNO3 + OH' }
+    {'MPRBNO3CO3 + NO3'}
+    {'MPRNO3CO2H + OH' }
+    {'NDNIPBZLO'       }
+    {'TBUTOLNO3 + OH'  }
+    {'PROL11MNO3 + OH' }
+    {'NDNPBNZLO'       }
+    {'OH + HO2M2C4NO3' }
+    {'OH + C54NO3'     }
+    {'HO2M2C4NO3 + hv' }
+    {'NMXYQO'          }
+    {'NDNT124LO'       }
+    {'T124NNCTO'       }
+    {'M3BU2OLNO3 + OH' }
+    {'M3BU2OLNO3 + hv' }
+    {'OH + H2M2C65NO3' }
+    {'H2M2C65NO3 + hv' }
+    {'C77NO3 + hv'     }
+    {'OH + C77NO3'     }
