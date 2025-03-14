@@ -1,0 +1,189 @@
+Age_physical_avg_min	Flight_ID	plume_num	emission_pass_name
+58.57658389	RF01	0	Rattlesnake Creek Fire
+62.99652878	RF01	1	Rattlesnake Creek Fire
+50.68881562	RF01	2	Rattlesnake Creek Fire
+123.8811074	RF01	3	Rattlesnake Creek Fire
+96.23395998	RF01	4	Rattlesnake Creek Fire
+94.86470578	RF01	5	Rattlesnake Creek Fire
+188.8875742	RF01	6	Rattlesnake Creek Fire
+116.7871731	RF01	7	Rattlesnake Creek Fire
+197.4985003	RF01	9	Rattlesnake Creek Fire
+280.1696992	RF01	11	Rattlesnake Creek Fire
+341.5170966	RF01	12	Rattlesnake Creek Fire
+49.84904067	RF01	13	Rattlesnake Creek Fire
+102.6979926	RF01	14	Rattlesnake Creek Fire
+1016.290657	RF02	15	Carr Fire
+492.3988703	RF02	16	Carr Fire
+87.01855717	RF02	17	Carr_Fire_a
+92.76690928	RF02	18	Carr Fire
+96.30832484	RF02	19	Carr Fire
+104.3490297	RF02	20	Carr Fire
+132.2575702	RF02	21	Carr Fire
+59.14046062	RF02	22	Carr Fire
+92.10075647	RF02	23	Carr_Fire_b
+111.584449	RF02	24	Carr Fire
+149.3753501	RF02	25	Carr Fire
+201.3427202	RF02	26	Carr Fire
+219.0603735	RF02	27	Carr Fire
+147.4975039	RF02	28	Carr Fire
+158.4975322	RF02	29	Carr Fire
+157.8908095	RF02	30	Carr Fire
+78.77311692	RF02	31	Carr Fire
+158.8473112	RF02	32	Carr Fire
+171.1196627	RF02	33	Carr Fire
+122.9750998	RF02	34	Carr Fire
+110.6422822	RF02	35	Carr Fire
+232.9945876	RF02	36	Carr Fire
+253.3864592	RF02	37	Carr Fire
+21.02596054	RF03	38	Taylor_Creek_Fire_a
+23.5029077	RF03	39	Taylor_Creek_Fire_a
+31.63849147	RF03	40	Taylor Creek Fire
+32.30082225	RF03	41	Taylor Creek Fire
+36.27815578	RF03	42	Taylor Creek Fire
+46.88747962	RF03	43	Taylor Creek Fire
+47.03034838	RF03	44	Taylor Creek Fire
+61.37235418	RF03	45	Taylor Creek Fire
+64.51002325	RF03	46	Taylor Creek Fire
+73.04684782	RF03	47	Taylor Creek Fire
+84.14909459	RF03	48	Taylor Creek Fire
+99.67463096	RF03	49	Taylor Creek Fire
+108.9594732	RF03	50	Taylor Creek Fire
+124.7217351	RF03	51	Taylor Creek Fire
+120.7157263	RF03	52	Taylor Creek Fire
+132.4701964	RF03	53	Taylor Creek Fire
+138.5187557	RF03	54	Taylor Creek Fire
+147.3793367	RF03	55	Taylor Creek Fire
+137.4018148	RF03	56	Taylor Creek Fire
+136.2731999	RF03	57	Taylor Creek Fire
+53.17086955	RF04	58	Sharps_Fire_a
+50.97405982	RF04	59	Sharps_Fire_a
+75.81359083	RF04	60	Sharps Fire
+80.98082214	RF04	61	Sharps Fire
+110.3566156	RF04	62	Sharps Fire
+129.8514608	RF04	63	Sharps Fire
+131.6981243	RF04	64	Sharps Fire
+172.9924383	RF04	65	Sharps Fire
+321.9218665	RF04	66	Sharps Fire
+392.6291068	RF04	67	Sharps Fire
+272.0444452	RF04	68	Sharps Fire
+48.45250888	RF04	69	Sharps_Fire_b
+170.2658203	RF04	70	Sharps Fire
+279.0726725	RF04	71	Sharps Fire
+319.5348639	RF04	72	Sharps Fire
+84.73431599	RF04	73	Sharps Fire
+99.04301937	RF04	74	Sharps Fire
+432.6785757	RF04	75	Sharps Fire
+357.7691986	RF04	76	Sharps Fire
+152.6500081	RF04	77	Sharps Fire
+839.6511676	RF05	78	Mendocino Complex Fire aged
+766.1081132	RF05	79	Mendocino Complex Fire aged
+685.1910473	RF05	80	Mendocino Complex Fire aged
+621.4679851	RF05	81	Mendocino Complex Fire aged
+575.4542568	RF05	82	Mendocino Complex Fire aged
+526.3471649	RF05	83	Mendocino Complex Fire aged
+473.780131	RF05	84	Mendocino Complex Fire aged
+408.8462123	RF05	85	Mendocino Complex Fire aged
+421.6636638	RF05	86	Mendocino Complex Fire aged
+461.8402881	RF05	87	Mendocino Complex Fire aged
+467.7376903	RF05	88	Mendocino Complex Fire aged
+446.6481602	RF05	89	Mendocino Complex Fire aged
+426.5175402	RF05	90	Mendocino Complex Fire aged
+413.8399997	RF05	91	Mendocino Complex Fire aged
+425.4453166	RF05	92	Mendocino Complex Fire aged
+436.6881999	RF05	93	Mendocino Complex Fire aged
+471.0127771	RF05	94	Mendocino Complex Fire aged
+285.7276674	RF06	108	Cougar Creek Fire
+199.9846613	RF06	109	Cougar Creek Fire
+225.867693	RF06	110	Cougar Creek Fire
+38.84896243	RF06	111	Kiwah Fire
+55.60707289	RF06	112	Kiwah Fire
+48.97142631	RF06	113	Kiwah Fire
+65.43073217	RF06	114	Kiwah Fire
+82.31849185	RF06	115	Kiwah Fire
+98.67944717	RF06	116	Kiwah Fire
+20.29948912	RF06	117	Rabbit_Foot_Fire_a
+40.72777685	RF06	118	Rabbit Foot Fire
+56.49469002	RF06	119	Rabbit Foot Fire
+88.39496886	RF06	120	Kiwah Fire
+127.7832843	RF07	130	Donnell Fire
+165.9909526	RF07	131	Donnell Fire
+189.7315279	RF07	132	Donnell Fire
+212.4857579	RF07	133	Donnell Fire
+134.1046481	RF07	134	Donnell_Fire_b
+157.768991	RF07	135	Donnell Fire
+195.3668788	RF07	136	Donnell Fire
+178.4886588	RF07	137	Ferguson Fire
+170.020107	RF07	139	Ferguson Fire
+66.27619	RF07	140	Donnell_Fire_c
+121.4860684	RF07	141	Donnell_Fire_c
+181.2327065	RF07	142	Donnell Fire
+243.5556196	RF07	143	Donnell Fire
+276.8879582	RF07	144	Donnell Fire
+295.8192442	RF07	145	Donnell Fire
+188.5524609	RF07	146	Donnell Fire
+141.0592519	RF07	147	Donnell Fire
+158.7253961	RF09	151	Dollar Ridge Fire
+193.601546	RF09	152	Coal Hollow Fire
+211.1685837	RF09	153	Coal Hollow Fire
+210.2150661	RF09	154	Coal Hollow Fire
+24.56986828	RF09	156	Bear_Trap_Fire_a
+47.13992983	RF09	157	Bear Trap Fire
+66.95228969	RF09	158	Bear Trap Fire
+89.56090885	RF09	159	Bear Trap Fire
+113.6890236	RF09	160	Bear Trap Fire
+135.638206	RF09	161	Bear Trap Fire
+157.9950992	RF09	162	Bear Trap Fire
+178.7526609	RF09	163	Bear Trap Fire
+202.5893145	RF09	164	Bear Trap Fire
+224.6374255	RF09	165	Bear Trap Fire
+123.4506044	RF09	166	Bear Trap Fire
+64.42733738	RF09	167	Bear_Trap_Fire_b
+106.8278724	RF09	168	Bear Trap Fire
+154.9569141	RF09	169	Bear Trap Fire
+197.5029203	RF09	170	Bear Trap Fire
+240.5112263	RF09	171	Bear Trap Fire
+263.5098444	RF09	172	Bear Trap Fire
+277.2320866	RF09	173	Bear Trap Fire
+245.6161564	RF09	174	Bear Trap Fire
+280.0456134	RF09	176	Dollar_Ridge_Fire_b
+198.3964465	RF09	178	Coal Hollow Fire
+236.0356894	RF09	179	Coal Hollow Fire
+39.45123723	RF10	180	Rabbit_Foot_Fire_b
+58.3248922	RF10	181	Rabbit Foot Fire
+78.78949153	RF10	182	Rabbit Foot Fire
+18.24611085	RF10	183	Goldstone_Fire_a
+59.00806558	RF10	184	Goldstone Fire
+137.246327	RF10	185	Goldstone Fire
+209.6856617	RF10	186	Goldstone Fire
+22.07134175	RF10	187	Wigwam_Fire_a
+23.10145338	RF10	188	Monument_Fire_a
+64.60727581	RF10	189	Monument Fire
+70.96377848	RF10	190	Wigwam Fire
+161.1440973	RF10	191	Goldstone Fire
+53.55118849	RF11	192	Rabbit_Foot_Fire_c
+50.17676002	RF11	193	Rabbit_Foot_Fire_c
+60.55811262	RF11	194	Rabbit_Foot_Fire_c
+52.1241404	RF11	195	Rabbit_Foot_Fire_c
+56.19425691	RF11	196	Rabbit_Foot_Fire_c
+55.71683195	RF11	197	Beaver_Creek_Fire_a
+98.42844603	RF11	198	Shellrock Fire
+281.2697784	RF11	199	Shellrock Fire
+337.6938896	RF11	200	Shellrock Fire
+527.3084821	RF11	201	Shellrock Fire
+361.0662467	RF11	202	Shellrock Fire
+156.9428988	RF11	203	Shellrock Fire
+145.5498559	RF11	204	Beaver_Creek_Fire_b
+206.8279788	RF11	205	Beaver Creek Fire
+266.1286091	RF11	206	Beaver Creek Fire
+133.6447953	RF11	207	Goldstone_Fire_b
+149.7543054	RF11	208	Goldstone Fire
+172.0101628	RF11	209	Rabbit Foot Fire
+222.0269836	RF13	228	Mendocino Complex Fire
+206.0823059	RF13	229	Mendocino Complex Fire
+203.9526711	RF13	230	Mendocino Complex Fire
+146.9067252	RF13	231	Mendocino Complex Fire
+139.6723534	RF13	232	Mendocino_Complex_Fire_a
+17.04195	RF18	258	Red_Feather_Lakes_Rx_Fire_a
+17.89452	RF18	259	Red_Feather_Lakes_Rx_Fire_b
+23.3179	RF19	260	Silver_Creek_Fire_a
+28.8812	RF19	261	Silver_Creek_Fire_b
