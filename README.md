@@ -19,9 +19,7 @@ project/
 │   └── all_data_mcm_bbvoc.csv.gz
 ├── environment.yml
 └── README.md
-
-
----
+```
 
 ## Fast reproduction (recommended)
 
@@ -36,19 +34,13 @@ project/
 
 4. Run all cells to reproduce figures and analysis.
 
----
-
 ## Full reproduction
 
 Set USE_PROCESSED = False and ensure raw data are available as expected by the notebook.
 
----
-
 ## Software environment
 
 Python >= 3.10. Exact package versions are listed in environment.yml.
-
----
 
 ## Contact
 
