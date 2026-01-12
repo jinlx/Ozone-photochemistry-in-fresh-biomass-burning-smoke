@@ -1,16 +1,14 @@
 # OH Production and Timescale Analysis in Wildfire Smoke
 
-This repository contains the analysis code used to diagnose OH production, loss, and
-timescales in wildfire smoke using observations, GEOS-Chem, and MCM-based box modeling.
+This repository contains analysis code to diagnose OH production, loss, and timescales in wildfire smoke using observations, GEOS-Chem, and MCM-based box modeling.
 
 The workflow supports two reproducibility paths:
-1. Fast reproduction from processed datasets (recommended)
-2. Full reproduction from raw inputs
-
----
+1. **Fast reproduction** from processed datasets (recommended)
+2. **Full reproduction** from raw inputs
 
 ## Repository structure
 
+```text
 project/
 ├── notebooks/
 │   └── OH_TS_Prod_v13_fig.ipynb
@@ -21,6 +19,7 @@ project/
 │   └── all_data_mcm_bbvoc.csv.gz
 ├── environment.yml
 └── README.md
+
 
 ---
 
@@ -53,5 +52,4 @@ Python >= 3.10. Exact package versions are listed in environment.yml.
 
 ## Contact
 
-Lixu Jin  
-Rutgers University
+Lixu Jin (lixu.jin@umontana.edu/jinlx15@outlook.com)
