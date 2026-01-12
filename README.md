@@ -1,10 +1,17 @@
-# OH Production and Timescale Analysis in Wildfire Smoke
+# Ozone photochemistry in fresh biomass burning smoke over the United States
 
-This repository contains analysis code to diagnose OH production, loss, and timescales in wildfire smoke using observations, GEOS-Chem, and MCM-based box modeling.
+Code and processed datasets to reproduce the key analysis and figures for the *Science Advances* paper:
+
+**Title:** Ozone photochemistry in fresh biomass burning smoke over the United States  
+**Authors:** Lixu Jin et al.
+**Journal:** Science Advances (2026)  
+**DOI:** [add when available]
+
+This repository focuses on diagnosing photochemical oxidant production and related metrics in **fresh wildfire smoke** using observational constraints and MCM-based box-model calculations.
 
 The workflow supports two reproducibility paths:
-1. **Fast reproduction** from processed datasets (recommended)
-2. **Full reproduction** from raw inputs
+1. **Fast reproduction (recommended):** run the notebook using the processed datasets in `processed_data/`.
+2. **Full reproduction:** regenerate processed datasets from raw inputs. Due to data volume and/or data-use constraints, the complete raw-input package is not distributed via GitHub; please contact the authors for access.
 
 ## Repository structure
 
