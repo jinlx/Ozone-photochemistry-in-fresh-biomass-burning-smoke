@@ -19,7 +19,7 @@ This repository focuses on diagnosing photochemical oxidant production and relat
 Two workflows are supported:
 
 1. **Fast reproduction (recommended):** run the notebook using the processed datasets (download from Zenodo or place them in `processed_data/`).
-2. **Full reproduction:** regenerate processed datasets from raw inputs. Due to data volume and/or data-use constraints, the complete raw-input package is not distributed via GitHub; please contact the authors for access.
+2. **Full reproduction:** regenerate processed datasets from raw inputs. Due to data volume and/or data-use constraints, the complete raw-input and processing package is not distributed via GitHub and Zenodo; please contact the authors for access.
 
 ## Repository structure
 
