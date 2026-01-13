@@ -1,5 +1,3 @@
-This is a pacakge for Jin et al., (2026), science advances.
-
 # Ozone photochemistry in fresh biomass burning smoke over the United States
 
 Code and processed datasets to reproduce the key analysis and figures for the *Science Advances* paper:
