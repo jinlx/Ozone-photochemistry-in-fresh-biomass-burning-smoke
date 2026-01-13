@@ -51,7 +51,7 @@ project/
 
 ## Full reproduction
 
-Set USE_PROCESSED = False and ensure raw data are available as expected by the notebook.
+Contact the authors for access due to data volume and/or data-use constraints.
 
 ## Software environment
 
