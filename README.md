@@ -3,14 +3,22 @@
 Code and processed datasets to reproduce the key analysis and figures for the *Science Advances* paper:
 
 **Title:** Ozone photochemistry in fresh biomass burning smoke over the United States  
-**Authors:** Lixu Jin et al.
+**Authors:** Lixu Jin et al.  
 **Journal:** Science Advances (2026)  
-**DOI:** [add when available]
+**Paper DOI:** [add when available]
+
+## Data availability (processed datasets)
+
+Processed, analysis-ready datasets used for the fast-reproduction workflow are archived on Zenodo:  
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.18226363
 
 This repository focuses on diagnosing photochemical oxidant production and related metrics in **fresh wildfire smoke** using observational constraints and MCM-based box-model calculations.
 
-The workflow supports two reproducibility paths:
-1. **Fast reproduction (recommended):** run the notebook using the processed datasets in `processed_data/`.
+## Reproducibility options
+
+Two workflows are supported:
+
+1. **Fast reproduction (recommended):** run the notebook using the processed datasets (download from Zenodo or place them in `processed_data/`).
 2. **Full reproduction:** regenerate processed datasets from raw inputs. Due to data volume and/or data-use constraints, the complete raw-input package is not distributed via GitHub; please contact the authors for access.
 
 ## Repository structure
@@ -19,7 +27,7 @@ The workflow supports two reproducibility paths:
 project/
 ├── notebooks/
 │   └── OH_TS_Prod_v13_fig.ipynb
-├── processed_data/
+├── processed_data/              # optional local copy (download from Zenodo)
 │   ├── all_data_obs.csv.gz
 │   ├── all_data_gc.csv.gz
 │   ├── all_data_mcm_gcvoc.csv.gz
