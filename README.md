@@ -5,7 +5,7 @@ Code and processed datasets to reproduce the key analysis and figures for the *S
 **Title:** Ozone photochemistry in fresh biomass burning smoke over the United States  
 **Authors:** Lixu Jin et al.  
 **Journal:** Science Advances (2026)  
-**Paper DOI:** [add when available]
+**Paper DOI:** https://doi.org/10.1126/sciadv.ads2157
 
 ## Data availability (processed datasets)
 
