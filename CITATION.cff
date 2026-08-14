@@ -1,0 +1,85 @@
+cff-version: 1.2.0
+message: "Please cite the Science Advances paper and the Zenodo processed-data release when using this repository."
+title: "Ozone photochemistry in fresh biomass burning smoke over the United States"
+type: software
+repository-code: "https://github.com/jinlx/Fresh-smoke-chemistry-packages"
+url: "https://doi.org/10.1126/sciadv.ads2157"
+authors:
+  - family-names: Jin
+    given-names: Lixu
+  - family-names: Coggon
+    given-names: Matthew M.
+  - family-names: Permar
+    given-names: Wade
+  - family-names: Juncosa Calahorrano
+    given-names: J. F.
+  - family-names: Palm
+    given-names: Brett B.
+  - family-names: Gkatzelis
+    given-names: Georgios I.
+  - family-names: Robinson
+    given-names: Matthew A.
+  - family-names: Bourgeois
+    given-names: Isabelle
+  - family-names: Hall
+    given-names: Samuel R.
+  - family-names: Peischl
+    given-names: John
+  - family-names: Ullmann
+    given-names: Kimberly
+  - family-names: Thornton
+    given-names: Joel A.
+  - family-names: Warneke
+    given-names: Carsten
+  - family-names: Flocke
+    given-names: Frank
+  - family-names: Fischer
+    given-names: Emily V.
+  - family-names: Yokelson
+    given-names: Robert J.
+  - family-names: Hu
+    given-names: Lu
+preferred-citation:
+  type: article
+  title: "Ozone photochemistry in fresh biomass burning smoke over the United States"
+  authors:
+    - family-names: Jin
+      given-names: Lixu
+    - family-names: Coggon
+      given-names: Matthew M.
+    - family-names: Permar
+      given-names: Wade
+    - family-names: Juncosa Calahorrano
+      given-names: J. F.
+    - family-names: Palm
+      given-names: Brett B.
+    - family-names: Gkatzelis
+      given-names: Georgios I.
+    - family-names: Robinson
+      given-names: Matthew A.
+    - family-names: Bourgeois
+      given-names: Isabelle
+    - family-names: Hall
+      given-names: Samuel R.
+    - family-names: Peischl
+      given-names: John
+    - family-names: Ullmann
+      given-names: Kimberly
+    - family-names: Thornton
+      given-names: Joel A.
+    - family-names: Warneke
+      given-names: Carsten
+    - family-names: Flocke
+      given-names: Frank
+    - family-names: Fischer
+      given-names: Emily V.
+    - family-names: Yokelson
+      given-names: Robert J.
+    - family-names: Hu
+      given-names: Lu
+  journal: "Science Advances"
+  year: 2026
+  volume: 12
+  issue: 6
+  article: eads2157
+  doi: "10.1126/sciadv.ads2157"
